@@ -1,3 +1,7 @@
+![GitHub followers](https://img.shields.io/github/followers/TrueS1gma?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/TrueS1gma?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=TrueS1gma&color=brightgreen)
+
 ### 🌟 Key Projects
 
 #### [**DevelWare**](https://github.com/TrueS1gma/DevelWare)
